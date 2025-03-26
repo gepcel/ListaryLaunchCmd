@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LaunchCmd": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\Users\\way\\source\\repos\\LaunchCmd\\LaunchCmd\\bin\\Debug\\net8.0\\LaunchCmd.exe"
+    }
+  }
+}
