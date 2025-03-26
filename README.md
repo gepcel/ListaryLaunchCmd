@@ -9,7 +9,7 @@ There was already a [discussion](https://discussion.listary.com/t/path-with-acti
 
 The tool is written in both C# and C++. Check the few lines of code and choose whichever you prefer.
 
-The `LaunchCmdCpp.exe` is build from C++, and `LaunchCmdCpp.exe` is build from c# (supposed to be native AOT, not sure).
+The `LaunchCmdCpp.exe` is build from C++, and `LaunchCmdCpp.exe` is build from c# (supposed to be native AOT, not sure). Download from [release](https://github.com/gepcel/ListaryLaunchCmd/releases).
 
 **How to use?**
 
